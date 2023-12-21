@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Apple!\n");
+    printf("Orange!\n");
     return 0;
 } 
